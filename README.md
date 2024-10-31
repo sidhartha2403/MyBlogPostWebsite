@@ -1,7 +1,7 @@
 # My Blog Post Website
 
 Welcome to my professional blog website, built as part of my work as a Full Stack Developer at Unified Mentor. This project showcases a responsive blog design, allowing users to navigate through blog posts, view detailed articles, and interact with content via a comment section.
-## Opening Pade
+## Opening Page
 ![Home Page](images/home-page.png)
 
 ## Features
