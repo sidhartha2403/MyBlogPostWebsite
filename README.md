@@ -16,7 +16,7 @@ Welcome to my professional blog website, built as part of my work as a Full Stac
 - **CSS**: To style and enhance the visual appeal.
 - **JavaScript**: Adds interactivity and functionality.
 
-### Screenshots
+## Screenshots
 
 #### Blog Homepage
 ![Homepage](images/home-page.png)
