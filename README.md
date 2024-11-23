@@ -53,4 +53,4 @@ To explore the website locally:
 
    -> Update the blog content by editing the index.html file and adding/removing blog posts in the HTML structure.
 
-   ->Style modifications can be done by adjusting the styles.css file.
+   -> Style modifications can be done by adjusting the styles.css file.
